@@ -1,0 +1,40 @@
+/*
+ Theme Name:   Astra Professional
+ Theme URI:    http://example.com/astra-prof/
+ Description:  Astra Child Theme - Professional
+ Author:       Miguel Chavez
+ Author URI:   https://www.linkedin.com/in/miguel-chavez-tapia/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astra-chil-prof
+*/
+
+/*Work archive*/
+.work.type-work.status-publish.has-post-thumbnail.ast-article-post {
+    padding: 1em 1.5em;
+}
+
+.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.ast-blog-featured-section.post-thumb {
+    width: max-content;
+}
+
+.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.entry-header>.entry-title {
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+    padding-left: 1em;
+}
+
+/*Education archive*/
+
+.education.type-education.status-publish.has-post-thumbnail.ast-article-post {
+    padding: 1.5em 6.67em;
+}

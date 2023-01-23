@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Professional Experience &#8211; Miguel&#039;s professional site</title>
+	<atom:link href="https://mchavezt86.github.io/work/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mchavezt86.github.io</link>
+	<description>This site contains my professional information.</description>
+	<lastBuildDate>Mon, 08 Jun 2020 22:17:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Corporación Grupo Romero &#8211; IT Platform Analyst</title>
+		<link>https://mchavezt86.github.io/work/it-platform-analyst/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 20:19:56 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=88</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scotiabank &#8211; Enterprise Infrastructure Support Specialist</title>
+		<link>https://mchavezt86.github.io/work/enterprise-infrastructure-support-specialist/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 20:11:53 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=87</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zoluxiones &#8211; IT Infrastructure Analyst</title>
+		<link>https://mchavezt86.github.io/work/it-infrastructure-analyst/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 20:06:08 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=85</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ferreyros &#8211; Engineering Trainee</title>
+		<link>https://mchavezt86.github.io/work/engineering-trainee/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 20:00:59 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=83</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EY &#8211; Service Desk Assistant</title>
+		<link>https://mchavezt86.github.io/work/service-desk-assistant/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:54:20 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=81</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scotiabank &#8211; Trainee</title>
+		<link>https://mchavezt86.github.io/work/scotiabank-trainee/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 31 May 2020 01:00:16 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=77</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IBM &#8211; Systems Support</title>
+		<link>https://mchavezt86.github.io/work/ibm-systems-support/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 31 May 2020 00:21:37 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=75</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Telkom &#8211; Intern</title>
+		<link>https://mchavezt86.github.io/work/telkom-intern/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 31 May 2020 00:04:42 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=74</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
