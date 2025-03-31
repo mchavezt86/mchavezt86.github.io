@@ -12,12 +12,12 @@
 	<atom:link href="https://mchavezt86.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mchavezt86.github.io</link>
 	<description>This site contains my professional information.</description>
-	<lastBuildDate>Mon, 23 Jan 2023 02:13:30 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Mar 2025 21:32:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 </channel>
 </rss>

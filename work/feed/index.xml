@@ -12,14 +12,28 @@
 	<atom:link href="https://mchavezt86.github.io/work/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mchavezt86.github.io</link>
 	<description>This site contains my professional information.</description>
-	<lastBuildDate>Mon, 08 Jun 2020 22:17:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Mar 2025 21:15:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
+		<title>Cybersecurity for Embedded Systems &#8211; Ikerlan</title>
+		<link>https://mchavezt86.github.io/work/cybersecurity-for-embedded-systems-ikerlan/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2025 20:57:17 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=work#038;p=180</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Corporación Grupo Romero &#8211; IT Platform Analyst</title>
 		<link>https://mchavezt86.github.io/work/it-platform-analyst/</link>
 		
