@@ -12,7 +12,7 @@
 	<atom:link href="https://mchavezt86.github.io/work/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mchavezt86.github.io</link>
 	<description>This site contains my professional information.</description>
-	<lastBuildDate>Sun, 30 Mar 2025 21:15:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Apr 2025 18:29:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
-		<title>Cybersecurity for Embedded Systems &#8211; Ikerlan</title>
+		<title>Ikerlan &#8211; Cybersecurity for Embedded Systems</title>
 		<link>https://mchavezt86.github.io/work/cybersecurity-for-embedded-systems-ikerlan/</link>
 		
 		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
