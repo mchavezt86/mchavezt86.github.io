@@ -19,18 +19,46 @@
 
 .work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 .work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.ast-blog-featured-section.post-thumb {
-    width: max-content;
+    flex-basis: 15%; /*Added after upgrade of Astra Theme*/
+    /*width: max-content;*/ 
+    
 }
 
-.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.entry-header>.entry-title {
+/*Not working after Astra theme upgrade*/
+/*.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.entry-header>.entry-title {
     position: relative;
     top: 50%;
     transform: translate(0,-50%);
-    padding-left: 1em;
+    padding-left: -1em;
+}*/
+
+/*Added after upgrade of Astra Theme*/
+.work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.entry-title {
+    flex-basis: 85%;
+    align-content: center;
+}
+
+/*Added for responsiveness in mobile version*/
+@media (max-width: 921px) {
+
+  .work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+  .work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.ast-blog-featured-section.post-thumb {
+    flex-basis: 100%;
+  }
+  
+  .work.type-work.status-publish.has-post-thumbnail>.ast-post-format-.blog-layout-1>.post-content>.entry-title {
+    flex-basis: 100%;
+}
+
 }
 
 /*Education archive*/

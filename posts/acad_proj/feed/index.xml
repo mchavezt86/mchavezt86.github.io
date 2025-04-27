@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Supervision and projects &#8211; Miguel&#039;s professional site</title>
+	<atom:link href="https://mchavezt86.github.io/posts/acad_proj/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mchavezt86.github.io</link>
+	<description>This site contains my professional information.</description>
+	<lastBuildDate>Sun, 30 Mar 2025 21:31:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8</generator>
+	<item>
+		<title>REPUcs &#8217;24</title>
+		<link>https://mchavezt86.github.io/posts/acad_proj/repu/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2025 21:23:56 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=acad_proj#038;p=187</guid>
+
+					<description><![CDATA[Supervise exchange BSc.]]></description>
+										<content:encoded><![CDATA[Supervise exchange BSc.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>REPUcs &#8217;23</title>
+		<link>https://mchavezt86.github.io/posts/acad_proj/repucs-23/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2023 00:12:15 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=acad_proj#038;p=123</guid>
+
+					<description><![CDATA[Supervise exchange BSc.]]></description>
+										<content:encoded><![CDATA[Supervise exchange BSc.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Supervise MSc thesis &#8211; Zehang Wu</title>
+		<link>https://mchavezt86.github.io/posts/acad_proj/supervise-msc-thesis-zehang-wu/</link>
+		
+		<dc:creator><![CDATA[mchavezt86]]></dc:creator>
+		<pubDate>Sun, 22 Jan 2023 23:31:38 +0000</pubDate>
+				<guid isPermaLink="false">https://mchavezt86.github.io/?post_type=acad_proj#038;p=120</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
